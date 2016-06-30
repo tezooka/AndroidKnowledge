@@ -1,0 +1,2 @@
+- [Cookpad](https://github.com/cookpad/styleguide)
+- [Square](https://github.com/square/java-code-styles)
